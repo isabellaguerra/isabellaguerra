@@ -1,6 +1,6 @@
 # ✨ Olá, eu sou a Isabella !
 
-💻 Estudante de **Desenvolvimento de Software Para Multiplataformas**
+💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
 🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
 📚 Sempre buscando aprender novas tecnologias e desenvolver projetos criativos
 📍 Praia Grande - SP, Brasil
