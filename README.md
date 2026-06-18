@@ -16,7 +16,7 @@
 Sou estudante de tecnologia com foco em desenvolvimento de software e constante aprimoramento técnico. Gosto de transformar conhecimento em projetos práticos e de explorar novas ferramentas que ampliem minhas habilidades como desenvolvedora.
 
 ---
-
+**Tecnologias**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,mysql,vscode" />
