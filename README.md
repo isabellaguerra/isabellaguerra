@@ -17,17 +17,8 @@ Sou estudante de tecnologia com foco em desenvolvimento de software e constante 
 
 ### Tecnologias e áreas de estudo
 
-* 🐍 Python
-* ☕ Java
-* 🌐 HTML, CSS e JavaScript
-* 🗄️ SQL e Banco de Dados
-* 🏗️ Desenvolvimento Web
-
-Busco adquirir experiência, criar projetos cada vez mais desafiadores e construir uma trajetória sólida na área de tecnologia, sempre aprendendo e evoluindo.
 
 
-
- 
 
 ---
 
@@ -36,6 +27,8 @@ Busco adquirir experiência, criar projetos cada vez mais desafiadores e constru
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,mysql,vscode" />
 </p>
+
+Busco adquirir experiência, criar projetos cada vez mais desafiadores e construir uma trajetória sólida na área de tecnologia, sempre aprendendo e evoluindo.
 
 ---
 
