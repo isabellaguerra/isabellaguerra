@@ -1,4 +1,4 @@
-background-color: #E6E6FA;
+<div style ="background-color: #E6E6FA;
  # ✨ Olá, eu sou a Isabella 
 
 💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
