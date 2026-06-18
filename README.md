@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Isabella" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FFFFFF&background=FFB6C1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Isabella" />
 </p>
-
 💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
 🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
 📚 Sempre buscando aprender novas tecnologias e desenvolver projetos criativos
