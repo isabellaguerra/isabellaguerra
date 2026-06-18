@@ -66,7 +66,7 @@ Meu objetivo é evoluir constantemente como desenvolvedora e transformar ideias 
 
 📧 Email: [isabellaaparecidaguerra@gmail.com](mailto:isabellaaparecidaguerra@gmail.com)
 
-💜 Obrigada por visitar meu perfil!     <img width="40" height="40" alt="eu" src="https://github.com/user-attachments/assets/853cfc2c-3881-463d-9365-deb9916905d6" />
-"/>
+💜 Obrigada por visitar meu perfil!     <img width="80" height="80" alt="eu" src="https://github.com/user-attachments/assets/853cfc2c-3881-463d-9365-deb9916905d6"s/>
+
 
 > "Pequenos progressos todos os dias levam a grandes resultados."
