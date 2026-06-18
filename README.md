@@ -1,4 +1,4 @@
-**✨ Olá, eu sou a Isabella**
+**✨OLA, SOU ISABELLA**
 
 💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
 🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
