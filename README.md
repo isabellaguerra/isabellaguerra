@@ -1,4 +1,6 @@
-**✨OLA, SOU ISABELLA**
+<h1 style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; color: #ff69b4; text-align: center;">
+  ✨ Olá, eu sou a Isabella! ✨
+</h1>
 
 💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
 🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
