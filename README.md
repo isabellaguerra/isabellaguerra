@@ -1,5 +1,5 @@
 
- <p style "color:purple;">✨ Olá, eu sou a Isabella </p>
+<p style="color:purple;">✨ Olá, eu sou a Isabella </p>
 
 💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
 🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
