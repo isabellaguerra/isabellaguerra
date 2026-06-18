@@ -1,26 +1,33 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FFFFFF&background=FFB6C1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Isabella" />
 </p>
-💻 Estudante de **Desenvolvimento de Software Para Multiplataformas na fatec**
-🌱 Atualmente estudando **Python, Java e Desenvolvimento Web**
-📚 Sempre buscando aprender novas tecnologias e desenvolver projetos criativos
+🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC
+
+🚀 Explorando tecnologias como Python, Java e Desenvolvimento Web
+
+💡 Interessada em programação, banco de dados e criação de soluções digitais
+
 📍 Praia Grande - SP, Brasil
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou apaixonada por tecnologia e estou construindo minha carreira na área de desenvolvimento de software.
+Sou estudante de tecnologia com foco em desenvolvimento de software e constante aprimoramento técnico. Gosto de transformar conhecimento em projetos práticos e de explorar novas ferramentas que ampliem minhas habilidades como desenvolvedora.
 
-Atualmente estudo:
+### Tecnologias e áreas de estudo
 
 * 🐍 Python
 * ☕ Java
 * 🌐 HTML, CSS e JavaScript
-* 🗄️ Banco de Dados SQL
+* 🗄️ SQL e Banco de Dados
 * 🏗️ Desenvolvimento Web
 
-Meu objetivo é evoluir constantemente como desenvolvedora e transformar ideias em soluções úteis e funcionais.
+Busco adquirir experiência, criar projetos cada vez mais desafiadores e construir uma trajetória sólida na área de tecnologia, sempre aprendendo e evoluindo.
+
+
+
+ 
 
 ---
 
