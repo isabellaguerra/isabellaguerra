@@ -74,19 +74,7 @@ Loja virtual temática para produtos de gatos, construída do zero com autentica
 `PHP` `MySQL` `E-commerce`
 **[🔗 Ver repositório](https://github.com/isabellaguerra/miau-presente)**
 
-### 📉 Rastreador de Preços
-Aplicação em Python que monitora preços de produtos (com suporte ao formato brasileiro de moeda), salva histórico em CSV e envia alertas por e-mail automaticamente via agendador.
-`Python` `Automação` `CSV` `E-mail`
-**[🔗 Ver repositório](https://github.com/isabellaguerra/price-tracker)**
 
-### ⚔️ JavaQuest — RPG Educacional
-Conceito de jogo RPG em Java com fins educacionais, incluindo Game Design Document completo e estrutura orientada a objetos.
-`Java` `POO` `Game Design`
-**[🔗 Ver repositório](https://github.com/isabellaguerra/javaquest)**
-
-> 💡 *Substitua os links acima pelos endereços reais dos seus repositórios no GitHub.*
-
----
 
 ## 📊 Estatísticas do GitHub
 
