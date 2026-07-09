@@ -73,7 +73,9 @@ E-commerce completo desenvolvido em **PHP + MySQL**, com sistema de autenticaç�
 Loja virtual para venda de cestas e presentes personalizados, desenvolvida do zero com identidade visual em tons pastéis. Possui área administrativa para gerenciamento de produtos e pedidos, além de uma área do cliente para visualizar e realizar compras.
 
 `PHP` `MySQL` `E-commerce`
-**[🔗 Ver repositório](https://github.com/isabellaguerra/miau-presente)**
+https://miaupresentes.page.gd/?i=1
+**[🔗 Ver site](https://miaupresentes.page.gd/?i=1)**
+**[🔗 Ver repositório do projeto ](https://github.com/isabellaguerra/miau-presente)**
 
 
 
