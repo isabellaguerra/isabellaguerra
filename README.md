@@ -12,7 +12,7 @@
   <a href="mailto:isabellaaparecidaguerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/isabella-aparecida-2477b2217">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/isabellaguerra">
