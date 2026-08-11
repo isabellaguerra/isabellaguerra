@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-Estudante%20FATEC%20Praia%20Grande-FFB6C1?style=for-the-badge&labelColor=6C3483" />
-  <img src="https://img.shields.io/badge/💼-Procurando%20a%20oport%C3%unidades-D2B4DE?style=for-the-badge&labelColor=6C3483" />
+  
   <img src="https://img.shields.io/badge/📍-Praia%20Grande,%20SP-FFE4EC?style=for-the-badge&labelColor=6C3483" />
 </p>
 
