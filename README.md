@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6C3483&background=FFE4EC00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Isabella!;Estudante+de+Desenvolvimento+de+Software;Buscando+minha+primeira+oportunidade+%F0%9F%92%BC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6C3483&background=FFE4EC00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Isabella!;Estudante+de+Desenvolvimento+de+Software;" />
 </h1>
 
 <p align="center">
