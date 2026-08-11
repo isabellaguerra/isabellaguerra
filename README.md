@@ -67,7 +67,7 @@ Atualmente estou em busca da minha **primeira oportunidade como estagiária de T
 ### 🛍️ Fofolicias — Loja Virtual de doces
 E-commerce completo desenvolvido em **PHP + MySQL**, com sistema de autenticação, proteção CSRF .
 `PHP` `MySQL` `PHPMailer` `Segurança`
-**[🔗 Ver repositório](https://github.com/isabellaguerra/fofolicias)**
+**[🔗 Ver repositório](https://github.com/isabellaguerra/Projeto-sistema-vendas-web)**
 
 ### 🐱 Miau Presente — Shop Presentes
 Loja virtual para venda de cestas e presentes personalizados, desenvolvida do zero com identidade visual em tons pastéis. Possui área administrativa para gerenciamento de produtos e pedidos, além de uma área do cliente para visualizar e realizar compras.
