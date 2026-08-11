@@ -64,8 +64,8 @@ Atualmente estou em busca da minha **primeira oportunidade como estagiária de T
 
 ## 🌸 Projetos em destaque
 
-### 🛍️ Fofolicias — Loja Virtual Kawaii
-E-commerce completo desenvolvido em **PHP + MySQL**, com sistema de autenticação, proteção CSRF e fluxo completo de recuperação de senha via e-mail (PHPMailer).
+### 🛍️ Fofolicias — Loja Virtual de doces
+E-commerce completo desenvolvido em **PHP + MySQL**, com sistema de autenticação, proteção CSRF .
 `PHP` `MySQL` `PHPMailer` `Segurança`
 **[🔗 Ver repositório](https://github.com/isabellaguerra/fofolicias)**
 
