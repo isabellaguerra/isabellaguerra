@@ -75,7 +75,7 @@ Loja virtual para venda de cestas e presentes personalizados, desenvolvida do ze
 `PHP` `MySQL` `E-commerce`
 https://miaupresentes.page.gd/?i=1
 **[🔗 Ver site](https://miaupresentes.page.gd/?i=1)**
-**[🔗 Ver repositório do projeto ](https://github.com/isabellaguerra/miau-presente)**
+**[🔗 Ver repositório do projeto ](https://github.com/isabellaguerra/sistema-de-comercio)**
 
 
 
